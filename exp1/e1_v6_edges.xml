@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo xmlns="https://mediaarea.net/mediainfo">
+<media ref="V6REF.mp4">
+<track type="General">
+<BitRate_Mode>E1xGBITRATEMODE</BitRate_Mode>
+<OverallBitRate_Mode>E1xGOVRBRMODE</OverallBitRate_Mode>
+<OverallBitRate>55555</OverallBitRate>
+<Duration>11.5</Duration>
+<FileSize>999999</FileSize>
+<FrameRate>29.97</FrameRate>
+<FrameCount>4321</FrameCount>
+<StreamSize>66666</StreamSize>
+<HeaderSize>77</HeaderSize>
+<DataSize>88</DataSize>
+<FooterSize>99</FooterSize>
+<IsStreamable>No</IsStreamable>
+<Encoded_Date>UTC 1984-01-01 00:00:00</Encoded_Date>
+<Tagged_Date>1984-01-01T00:00:00Z</Tagged_Date>
+<File_Modified_Date>UTC 1985-05-05 05:05:05</File_Modified_Date>
+<Format>E1xGFORMAT</Format>
+</track>
+<track type="Video">
+<ID>9</ID>
+<StreamOrder>3</StreamOrder>
+<Width>640</Width>
+<Height>480</Height>
+<Sampled_Width>1280</Sampled_Width>
+<Sampled_Height>720</Sampled_Height>
+<Height_Offset>-2</Height_Offset>
+<PixelAspectRatio>2.35</PixelAspectRatio>
+<DisplayAspectRatio>1.777</DisplayAspectRatio>
+<Rotation>90.5</Rotation>
+<FrameRate>59.94</FrameRate>
+<FrameCount>1001</FrameCount>
+<FrameRate_Mode_Original>E1xVFRMODEORIG</FrameRate_Mode_Original>
+<Format_Settings_CABAC>No</Format_Settings_CABAC>
+<Format_Settings_RefFrames>7</Format_Settings_RefFrames>
+<BitDepth>10</BitDepth>
+<Delay>1.25</Delay>
+<Duration>13.37</Duration>
+<TimeCode_FirstFrame>00:00:59:94</TimeCode_FirstFrame>
+<Format_Level>E1xVLEVEL</Format_Level>
+</track>
+<track type="Audio">
+<ID>8</ID>
+<Channels>6</Channels>
+<SamplingRate>48000</SamplingRate>
+<SamplesPerFrame>1024</SamplesPerFrame>
+<SamplingCount>31337</SamplingCount>
+<FrameCount>555</FrameCount>
+<FrameRate>44.1</FrameRate>
+<BitRate>128000</BitRate>
+<BitRate_Maximum>777000</BitRate_Maximum>
+<Default>No</Default>
+<AlternateGroup>E1xAALTGROUP</AlternateGroup>
+<Delay>-1.5</Delay>
+<Duration>15.5</Duration>
+<ChannelPositions>Front: L C R LFE Ls Rs</ChannelPositions>
+</track>
+<track type="Text">
+<ID>4</ID>
+<Language>E1xLONG START uni &#228; &#20013; &#25991; end's "dq" &lt;tag&gt; %20 +~? tail</Language>
+<Format>E1xTFORMAT</Format>
+<Width>1920</Width>
+<Height>1080</Height>
+<FrameRate>25</FrameRate>
+<Duration>12.5</Duration>
+<CompressionMode>zlib &#8212; custom</CompressionMode>
+</track>
+<track type="Other">
+<Language>E1xOTHERLANG</Language>
+<Format>E1xOTHERFMT</Format>
+</track>
+<track type="Image">
+<Format>E1xIMAGEFMT</Format>
+<Width>E1xIMGW</Width>
+</track>
+<track type="Menu">
+<Language>E1xMENULANG</Language>
+</track>
+</media>
+</MediaInfo>
