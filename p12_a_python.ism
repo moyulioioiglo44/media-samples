@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/usr/lib/python3.11/README.txt"/>
+    </switch>
+  </body>
+</smil>
