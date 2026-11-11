@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="crash1_full.mxf"/>
+      <video src="/etc/passwd"/>
+      <video src="/etc/passwd_MISSINGXYZ"/>
+      <audio src="/etc/hostname"/>
+    </switch>
+  </body>
+</smil>
