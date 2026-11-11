@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="5155" codecs="avc1.42c01e" width="31337" height="4242" bandwidth="5150" mimeType="video/mp4">
+    <SegmentTemplate initialization="/etc/nginx/nginx.conf" media="/e2_nosuch_zz.mp4"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
