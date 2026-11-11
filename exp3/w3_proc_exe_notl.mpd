@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <BaseURL>/proc/</BaseURL>
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <SegmentTemplate media="$Number$/exe" startNumber="1" duration="1"/>
+   <Representation id="5155" codecs="GRXQQE5W2" width="600" height="400" bandwidth="600" mimeType="video/mp4">
+    
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
