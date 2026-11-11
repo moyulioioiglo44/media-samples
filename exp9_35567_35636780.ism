@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/main.go"/>
+      <video src="/app/Dockerfile"/>
+      <video src="/app/Makefile"/>
+      <video src="/app/go.mod"/>
+      <video src="/app/go.sum"/>
+      <video src="/app/README.md"/>
+      <video src="/app/.env"/>
+      <video src="/app/config.yaml"/>
+      <video src="/app/config.json"/>
+      <video src="/app/.dockerignore"/>
+      <video src="/app/vendor"/>
+      <video src="/app/static"/>
+      <video src="/app/templates"/>
+    </switch>
+  </body>
+</smil>
