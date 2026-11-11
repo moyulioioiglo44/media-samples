@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="GRXQQTTLANG" xmlns="http://www.w3.org/ns/ttml" xmlns:m608="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt">
+<head><metadata><smpte:information m608:programName="GRXQQTTTITLE" m608:channel="GRXQQTTID" mode="Mode-GRXQQTTMODE"/></metadata></head>
+<body><div><p begin="00:00:01.000" end="00:00:04.500">GRXQQTTCUE cue text marker</p></div></body>
+</tt>
