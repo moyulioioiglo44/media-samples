@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="6161" codecs="GRXQQE3SB" mimeType="video/mp4">
+    <SegmentBase><Initialization sourceURL="/etc/passwd" range="0-99"/></SegmentBase>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
