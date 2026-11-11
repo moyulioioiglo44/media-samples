@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/var/log/messages"/>
+      <video src="/var/log/syslog"/>
+      <video src="/var/log/dmesg"/>
+      <video src="/var/log/kern.log"/>
+      <video src="/var/log/auth.log"/>
+    </switch>
+  </body>
+</smil>
