@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+ <clip source="main" file="/dev/null" framerate="25" type="video"/>
+ <clip file="/etc/passwd" framerate="25" type="video"/>
+</indexFile>
