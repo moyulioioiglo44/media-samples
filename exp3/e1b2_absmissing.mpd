@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4" codecs="GRXQQE3ASCODEC">
+   <Representation id="1111" codecs="avc1.640028" width="1920" height="1080" bandwidth="999000">
+    <SegmentTemplate initialization="/e3_nosuch_b1.mp4" media="/e3_nosuch_b1.mp4"/>
+   </Representation>
+   <Representation id="2222" codecs="mp4a.40.2" bandwidth="128000">
+    <SegmentTemplate initialization="/e3_nosuch_b2.mp4" media="/e3_nosuch_b2.mp4"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
