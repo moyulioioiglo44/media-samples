@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+  <Id>urn:uuid:cm</Id>
+  <ReelList>
+   <Reel><Id>urn:uuid:r1</Id><AssetList><MainPicture><Id>/etc/passwd</Id></MainPicture></AssetList></Reel>
+   <Reel><Id>urn:uuid:r2</Id><AssetList><MainPicture><Id>/etc/hosts</Id></MainPicture></AssetList></Reel>
+  </ReelList>
+</CompositionPlaylist>
