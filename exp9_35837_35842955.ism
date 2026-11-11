@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/var/log/lastlog"/>
+      <video src="/var/log/wtmp"/>
+      <video src="/var/log/btmp"/>
+    </switch>
+  </body>
+</smil>
