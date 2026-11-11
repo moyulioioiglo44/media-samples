@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/tls"/>
+      <video src="/usr/local"/>
+      <video src="/var/lib"/>
+      <video src="/var/log"/>
+      <video src="/workspace"/>
+      <video src="/vault"/>
+      <video src="/keys"/>
+      <video src="/usr/share/mediainfo"/>
+    </switch>
+  </body>
+</smil>
