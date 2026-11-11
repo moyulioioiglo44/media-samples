@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+ <clip source="main" file="f1_open_lang.mkv" framerate="25" type="video">
+  <frame file="e0_secret.txt"/>
+ </clip>
+</indexFile>
