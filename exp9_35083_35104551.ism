@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/self/cmdline"/>
+      <video src="/proc/net/tcp"/>
+    </switch>
+  </body>
+</smil>
