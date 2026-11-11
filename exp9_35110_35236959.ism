@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1/fd/2"/>
+      <video src="/proc/self/fd/1"/>
+    </switch>
+  </body>
+</smil>
