@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/etc/hostname"/>
+      <video src="/etc/hosts"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"/>
+      <video src="/etc/debian_version"/>
+    </switch>
+  </body>
+</smil>
