@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/var/log/dpkg.log"/>
+      <video src="/var/log/alternatives.log"/>
+      <video src="/var/log/apt/term.log"/>
+      <video src="/var/log/apt/history.log"/>
+      <video src="/var/log/bootstrap.log"/>
+      <video src="/var/log/lastlog"/>
+      <video src="/var/log/wtmp"/>
+      <video src="/var/log/btmp"/>
+      <video src="/var/log/messages"/>
+      <video src="/var/log/syslog"/>
+      <video src="/var/log/dmesg"/>
+      <video src="/var/log/kern.log"/>
+      <video src="/var/log/auth.log"/>
+      <video src="/var/log/containers"/>
+      <video src="/var/log/pods"/>
+      <video src="/var/log/nginx"/>
+    </switch>
+  </body>
+</smil>
