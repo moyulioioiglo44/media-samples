@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/config/config.yaml"/>
+      <video src="/app/config/config.yml"/>
+      <video src="/app/config.json.bak"/>
+      <video src="/app/.env"/>
+      <video src="/app/secrets.yaml"/>
+      <video src="/app/k8s.yaml"/>
+      <video src="/app/deploy.yaml"/>
+    </switch>
+  </body>
+</smil>
