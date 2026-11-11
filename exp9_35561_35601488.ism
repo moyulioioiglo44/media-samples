@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app"/>
+      <video src="/usr/local"/>
+      <video src="/var/lib"/>
+      <video src="/config"/>
+    </switch>
+  </body>
+</smil>
