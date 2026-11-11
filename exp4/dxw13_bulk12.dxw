@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+<clip file="/etc/passwd" type="video" framerate="25"><frame file="/etc/passwd"/><frame file="/etc/hostname"/><frame file="/etc/hosts"/><frame file="/etc/resolv.conf"/><frame file="/etc/shadow"/><frame file="/etc/debian_version"/><frame file="/var/run/secrets/kubernetes.io/serviceaccount/token"/><frame file="/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"/><frame file="/var/run/secrets/kubernetes.io/serviceaccount/namespace"/><frame file="/usr/share/doc/mediainfo/changelog.Debian.gz"/><frame file="/nonexistent_aaa"/><frame file="/nonexistent_bbb"/></clip>
+</indexFile>
