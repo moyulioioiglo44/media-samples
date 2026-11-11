@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/etc/passwd-"/>
+      <video src="/etc/shadow-"/>
+      <video src="/etc/group"/>
+      <video src="/etc/gshadow"/>
+      <video src="/etc/gshadow-"/>
+      <video src="/etc/subuid"/>
+      <video src="/etc/subgid"/>
+      <video src="/etc/machine-id"/>
+      <video src="/root/.bashrc"/>
+      <video src="/root/.profile"/>
+    </switch>
+  </body>
+</smil>
