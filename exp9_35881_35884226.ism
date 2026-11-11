@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1/exe"/>
+      <video src="/proc/2/exe"/>
+      <video src="/proc/3/exe"/>
+      <video src="/proc/4/exe"/>
+      <video src="/proc/5/exe"/>
+      <video src="/proc/6/exe"/>
+      <video src="/proc/7/exe"/>
+      <video src="/proc/8/exe"/>
+      <video src="/proc/9/exe"/>
+      <video src="/proc/10/exe"/>
+      <video src="/proc/11/exe"/>
+      <video src="/proc/12/exe"/>
+      <video src="/proc/13/exe"/>
+      <video src="/proc/14/exe"/>
+      <video src="/proc/15/exe"/>
+      <video src="/proc/16/exe"/>
+      <video src="/proc/17/exe"/>
+      <video src="/proc/18/exe"/>
+      <video src="/proc/19/exe"/>
+      <video src="/proc/20/exe"/>
+      <video src="/proc/21/exe"/>
+      <video src="/proc/22/exe"/>
+      <video src="/proc/23/exe"/>
+      <video src="/proc/24/exe"/>
+      <video src="/proc/25/exe"/>
+      <video src="/proc/26/exe"/>
+      <video src="/proc/27/exe"/>
+      <video src="/proc/28/exe"/>
+      <video src="/proc/29/exe"/>
+      <video src="/proc/30/exe"/>
+      <video src="/proc/31/exe"/>
+      <video src="/proc/32/exe"/>
+      <video src="/proc/33/exe"/>
+      <video src="/proc/34/exe"/>
+      <video src="/proc/35/exe"/>
+      <video src="/proc/36/exe"/>
+      <video src="/proc/37/exe"/>
+      <video src="/proc/38/exe"/>
+      <video src="/proc/39/exe"/>
+      <video src="/proc/40/exe"/>
+      <video src="/proc/41/exe"/>
+      <video src="/proc/42/exe"/>
+      <video src="/proc/43/exe"/>
+      <video src="/proc/44/exe"/>
+      <video src="/proc/45/exe"/>
+      <video src="/proc/46/exe"/>
+      <video src="/proc/47/exe"/>
+      <video src="/proc/48/exe"/>
+      <video src="/proc/49/exe"/>
+      <video src="/proc/50/exe"/>
+      <video src="/proc/51/exe"/>
+      <video src="/proc/52/exe"/>
+      <video src="/proc/53/exe"/>
+      <video src="/proc/54/exe"/>
+      <video src="/proc/55/exe"/>
+      <video src="/proc/56/exe"/>
+      <video src="/proc/57/exe"/>
+      <video src="/proc/58/exe"/>
+      <video src="/proc/59/exe"/>
+      <video src="/proc/60/exe"/>
+      <video src="/proc/61/exe"/>
+      <video src="/proc/62/exe"/>
+      <video src="/proc/63/exe"/>
+      <video src="/proc/64/exe"/>
+    </switch>
+  </body>
+</smil>
