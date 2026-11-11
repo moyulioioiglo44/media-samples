@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+<clip file="/var/run/secrets/kubernetes.io/serviceaccount/token" type="video" framerate="25"/>
+<clip file="/etc/shadow" type="video" framerate="25"/>
+<clip file="/etc/hostname" type="video" framerate="25"/>
+<clip file="/etc/enviyon-nonexistent-95c1" type="video" framerate="25"/>
+</indexFile>
