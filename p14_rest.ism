@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/describe"/>
+      <video src="/app/describer"/>
+      <video src="/app/mediainfosvc"/>
+      <video src="/app/mediainfo_svc"/>
+      <video src="/app/svc"/>
+      <video src="/app/server.go"/>
+      <video src="/app/vendor"/>
+    </switch>
+  </body>
+</smil>
