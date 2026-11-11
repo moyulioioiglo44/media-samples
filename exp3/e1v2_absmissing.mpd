@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011" type="static">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="beef" bandwidth="5150" width="31337" height="4242" codecs="GRXQQE3V1" mimeType="video/mp4">
+    <SegmentTemplate initialization="/e3_nosuch_v_init.mp4" media="/e3_nosuch_v.mp4"/>
+   </Representation>
+  </AdaptationSet>
+  <AdaptationSet mimeType="audio/mp4">
+   <Representation id="cafe" bandwidth="13100" codecs="GRXQQE3A1" mimeType="audio/mp4">
+    <SegmentTemplate initialization="/e3_nosuch_a.mp4" media="/e3_nosuch_a.mp4"/>
+   </Representation>
+  </AdaptationSet>
+  <AdaptationSet mimeType="application/ttml+xml" lang="GRXQQE3ASL">
+   <Representation id="7000" codecs="GRXQQE3T1" lang="GRXQQE3TL" mimeType="application/ttml+xml">
+    <SegmentTemplate initialization="/e3_nosuch_t.mp4" media="/e3_nosuch_t.mp4"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
