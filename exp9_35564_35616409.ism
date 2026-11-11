@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/etc/fstab"/>
+      <video src="/etc/shells"/>
+      <video src="/etc/securetty"/>
+      <video src="/etc/issue"/>
+      <video src="/etc/issue.net"/>
+      <video src="/etc/nsswitch.conf"/>
+      <video src="/etc/hosts.allow"/>
+      <video src="/etc/hosts.deny"/>
+      <video src="/etc/sudoers"/>
+      <video src="/etc/timezone"/>
+      <video src="/etc/motd"/>
+    </switch>
+  </body>
+</smil>
