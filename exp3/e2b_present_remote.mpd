@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="3333" codecs="GRXQQE3V2" width="111" height="222" bandwidth="333" mimeType="video/mp4">
+    <SegmentTemplate initialization="e2b_media.mkv" media="e2b_media.mkv"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
