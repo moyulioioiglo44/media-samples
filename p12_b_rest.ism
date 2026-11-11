@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/mediainfo-api"/>
+      <video src="/app/mediainfo-service"/>
+      <video src="/app/media-info"/>
+      <video src="/app/clipinfo"/>
+      <video src="/app/mi-svc"/>
+      <video src="/app/main.exe"/>
+    </switch>
+  </body>
+</smil>
