@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:2.0,
+/usr/share/pixmaps/debian-logo.png
+#EXTINF:2.0,
+/app/definitely-missing.png
+#EXT-X-ENDLIST
