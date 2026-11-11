@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1/cwd/main"/>
+      <video src="/proc/1/cwd/app"/>
+      <video src="/proc/1/cwd/server"/>
+    </switch>
+  </body>
+</smil>
