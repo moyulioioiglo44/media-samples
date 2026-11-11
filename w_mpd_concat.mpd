@@ -1,0 +1,1 @@
+<?xml version="1.0"?><MPD xmlns="urn:mpeg:DASH:schema:MPD:2011" type="static"><Period><AdaptationSet mimeType="video/mp4" codecs="GRXQQWMANC"><Representation id="1" bandwidth="1000" mimeType="video/mp4" codecs="GRXQQWMANC"><BaseURL>w_mkvcid.mkv</BaseURL></Representation></AdaptationSet></Period></MPD>
