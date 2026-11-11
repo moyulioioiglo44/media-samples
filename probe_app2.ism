@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/mediainfo"/>
+      <video src="/app/index.html"/>
+      <video src="/app/config.yaml"/>
+      <video src="/app/config.json"/>
+      <video src="/app/go.mod"/>
+      <video src="/app/Dockerfile"/>
+    </switch>
+  </body>
+</smil>
