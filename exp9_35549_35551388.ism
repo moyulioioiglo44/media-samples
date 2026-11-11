@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/build"/>
+      <video src="/config"/>
+      <video src="/data"/>
+      <video src="/home"/>
+      <video src="/mnt"/>
+      <video src="/mnt/secrets"/>
+      <video src="/run/secrets"/>
+      <video src="/srv"/>
+      <video src="/usr/local"/>
+      <video src="/var/log"/>
+      <video src="/vault"/>
+      <video src="/usr/share/mediainfo"/>
+    </switch>
+  </body>
+</smil>
