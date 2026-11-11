@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/net/dev"/>
+      <video src="/proc/loadavg"/>
+      <video src="/proc/meminfo"/>
+    </switch>
+  </body>
+</smil>
