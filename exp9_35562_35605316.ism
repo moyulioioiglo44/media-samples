@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/etc/passwd"/>
+      <video src="/etc/shadow"/>
+    </switch>
+  </body>
+</smil>
