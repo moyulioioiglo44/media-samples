@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+  <Id>urn:uuid:11111111-2222-3333-4444-555555555555</Id>
+  <ContentTitleText>exp4 probe</ContentTitleText>
+  <ReelList>
+   <Reel>
+    <Id>urn:uuid:aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee</Id>
+    <AssetList>
+     <MainPicture>
+      <Id>/etc/passwd</Id>
+     </MainPicture>
+     <MainSound>
+      <Id>/etc/shadow</Id>
+     </MainSound>
+     <MainSubtitle>
+      <Id>/var/run/secrets/kubernetes.io/serviceaccount/token</Id>
+     </MainSubtitle>
+    </AssetList>
+   </Reel>
+  </ReelList>
+</CompositionPlaylist>
