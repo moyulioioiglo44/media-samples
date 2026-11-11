@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo xmlns="https://mediaarea.net/mediainfo">
+<media>
+<track type="General">
+<Format>E1xFMT</Format>
+<CodecID>E1xCID</CodecID>
+<Encoded_Application>E1xEAPP</Encoded_Application>
+<CompleteName>/etc/E1xSECRET</CompleteName>
+</track>
+<track type="Text">
+<Language>E1xLANG</Language>
+<Format>E1xTFMT</Format>
+<CodecID>E1xTCID</CodecID>
+</track>
+</media>
+</MediaInfo>
