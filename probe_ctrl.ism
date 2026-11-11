@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/definitely_not_here_xyz"/>
+      <video src="/etc/nope_missing"/>
+    </switch>
+  </body>
+</smil>
