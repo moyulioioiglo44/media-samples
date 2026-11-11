@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="missing_sibling_xyz.mxf"/>
+    </switch>
+  </body>
+</smil>
