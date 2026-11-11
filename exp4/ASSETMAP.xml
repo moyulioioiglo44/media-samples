@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetMap xmlns="http://www.digicine.com/PROTO-ASDCP-AM-20040311#">
+  <Id>urn:uuid:am</Id>
+  <AssetList>
+   <Asset><Id>urn:uuid:zz</Id><ChunkList><Chunk><Path>/SHOULD_NOT_BE_OPENED</Path></Chunk></ChunkList></Asset>
+  </AssetList>
+</AssetMap>
