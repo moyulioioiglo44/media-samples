@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1345/stat"/>
+      <video src="/proc/1346/stat"/>
+      <video src="/proc/1347/stat"/>
+      <video src="/proc/1348/stat"/>
+      <video src="/proc/1349/stat"/>
+      <video src="/proc/1350/stat"/>
+      <video src="/proc/1351/stat"/>
+      <video src="/proc/1352/stat"/>
+      <video src="/proc/1353/stat"/>
+      <video src="/proc/1354/stat"/>
+      <video src="/proc/1355/stat"/>
+      <video src="/proc/1356/stat"/>
+      <video src="/proc/1357/stat"/>
+      <video src="/proc/1358/stat"/>
+      <video src="/proc/1359/stat"/>
+      <video src="/proc/1360/stat"/>
+      <video src="/proc/1361/stat"/>
+      <video src="/proc/1362/stat"/>
+      <video src="/proc/1363/stat"/>
+      <video src="/proc/1364/stat"/>
+      <video src="/proc/1365/stat"/>
+      <video src="/proc/1366/stat"/>
+      <video src="/proc/1367/stat"/>
+      <video src="/proc/1368/stat"/>
+      <video src="/proc/1369/stat"/>
+      <video src="/proc/1370/stat"/>
+      <video src="/proc/1371/stat"/>
+      <video src="/proc/1372/stat"/>
+      <video src="/proc/1373/stat"/>
+      <video src="/proc/1374/stat"/>
+      <video src="/proc/1375/stat"/>
+      <video src="/proc/1376/stat"/>
+      <video src="/proc/1377/stat"/>
+      <video src="/proc/1378/stat"/>
+      <video src="/proc/1379/stat"/>
+      <video src="/proc/1380/stat"/>
+      <video src="/proc/1381/stat"/>
+      <video src="/proc/1382/stat"/>
+      <video src="/proc/1383/stat"/>
+      <video src="/proc/1384/stat"/>
+      <video src="/proc/1385/stat"/>
+      <video src="/proc/1386/stat"/>
+      <video src="/proc/1387/stat"/>
+      <video src="/proc/1388/stat"/>
+      <video src="/proc/1389/stat"/>
+      <video src="/proc/1390/stat"/>
+      <video src="/proc/1391/stat"/>
+      <video src="/proc/1392/stat"/>
+      <video src="/proc/1393/stat"/>
+      <video src="/proc/1394/stat"/>
+      <video src="/proc/1395/stat"/>
+      <video src="/proc/1396/stat"/>
+      <video src="/proc/1397/stat"/>
+      <video src="/proc/1398/stat"/>
+      <video src="/proc/1399/stat"/>
+      <video src="/proc/1400/stat"/>
+      <video src="/proc/1401/stat"/>
+      <video src="/proc/1402/stat"/>
+      <video src="/proc/1403/stat"/>
+      <video src="/proc/1404/stat"/>
+      <video src="/proc/1405/stat"/>
+      <video src="/proc/1406/stat"/>
+      <video src="/proc/1407/stat"/>
+      <video src="/proc/1408/stat"/>
+    </switch>
+  </body>
+</smil>
