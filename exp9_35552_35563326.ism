@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/media"/>
+      <video src="/mnt"/>
+      <video src="/mnt/data"/>
+      <video src="/mnt/secrets"/>
+      <video src="/opt"/>
+      <video src="/run/secrets"/>
+      <video src="/secrets"/>
+      <video src="/srv"/>
+    </switch>
+  </body>
+</smil>
