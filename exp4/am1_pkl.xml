@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PackingList xmlns="http://www.digicine.com/PROTO-ASDCP-PKL-20040311#">
+  <Id>urn:uuid:pklroot-1</Id>
+  <AssetList>
+   <Asset>
+    <Id>urn:uuid:cpl-1</Id>
+    <Type>text/xml;asdcpKind=CPL</Type>
+   </Asset>
+  </AssetList>
+</PackingList>
