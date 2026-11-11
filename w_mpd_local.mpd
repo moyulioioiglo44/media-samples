@@ -1,0 +1,1 @@
+<?xml version="1.0"?><MPD xmlns="urn:mpeg:DASH:schema:MPD:2011" type="static"><Period><AdaptationSet mimeType="video/mp4" codecs="GRXQQWLOC1"><Representation id="1" codecs="GRXQQWLOC1" bandwidth="1000" mimeType="video/mp4"><SegmentTemplate initialization="/etc/passwd" media="/etc/shadow" startNumber="1" duration="1" timescale="1"/></Representation></AdaptationSet></Period></MPD>
