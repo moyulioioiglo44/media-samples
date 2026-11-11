@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo xmlns="https://mediaarea.net/mediainfo">
+<media>
+<track type="Text">
+<Language>E1xU-auml-ä-eacute-é-cjk-中-emoji-😀-end</Language>
+</track>
+<track type="Timecode">
+<ID>E1xTCID</ID>
+<TimeCode_FirstFrame>E1xTCFF</TimeCode_FirstFrame>
+<TimeCode_Settings>E1xTCSET</TimeCode_Settings>
+</track>
+</media>
+</MediaInfo>
