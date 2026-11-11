@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/2067-3/2016">
+  <Id>urn:uuid:imf-1</Id>
+  <SegmentList>
+   <Segment>
+    <Id>urn:uuid:seg-1</Id>
+    <SequenceList>
+     <cc:MainImageSequence xmlns:cc="http://www.smpte-ra.org/schemas/2067-2/2013">
+      <Id>urn:uuid:seq-1</Id>
+      <ResourceList>
+       <Resource>
+        <Id>urn:uuid:res-1</Id>
+        <EditRate>25 1</EditRate>
+        <EntryPoint>0</EntryPoint>
+        <SourceDuration>100</SourceDuration>
+        <TrackFileId>/etc/passwd</TrackFileId>
+       </Resource>
+      </ResourceList>
+     </cc:MainImageSequence>
+     <cc:MainAudioSequence xmlns:cc="http://www.smpte-ra.org/schemas/2067-2/2013">
+      <Id>urn:uuid:seq-2</Id>
+      <ResourceList>
+       <Resource>
+        <Id>urn:uuid:res-2</Id>
+        <EditRate>48000 1</EditRate>
+        <TrackFileId>/etc/hosts</TrackFileId>
+       </Resource>
+      </ResourceList>
+     </cc:MainAudioSequence>
+    </SequenceList>
+   </Segment>
+  </SegmentList>
+</CompositionPlaylist>
