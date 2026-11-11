@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="6262" codecs="GRXQQE3SL" mimeType="video/mp4">
+    <SegmentList duration="2">
+     <Initialization sourceURL="/etc/passwd"/>
+     <SegmentURL media="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+     <SegmentURL media="/e3_nosuch_sl3.mp4"/>
+    </SegmentList>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
