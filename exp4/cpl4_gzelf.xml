@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+  <Id>urn:uuid:c4</Id>
+  <ReelList><Reel><Id>urn:uuid:r4</Id><AssetList>
+   <MainPicture><Id>/usr/share/doc/mediainfo/changelog.Debian.gz</Id></MainPicture>
+   <MainSound><Id>/proc/self/exe</Id></MainSound>
+  </AssetList></Reel></ReelList>
+</CompositionPlaylist>
