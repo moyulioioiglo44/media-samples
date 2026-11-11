@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/3/stat"/>
+      <video src="/proc/4/stat"/>
+      <video src="/proc/7/stat"/>
+      <video src="/proc/8/stat"/>
+      <video src="/proc/11/stat"/>
+      <video src="/proc/12/stat"/>
+      <video src="/proc/15/stat"/>
+      <video src="/proc/16/stat"/>
+      <video src="/proc/19/stat"/>
+      <video src="/proc/20/stat"/>
+      <video src="/proc/23/stat"/>
+      <video src="/proc/24/stat"/>
+      <video src="/proc/27/stat"/>
+      <video src="/proc/28/stat"/>
+      <video src="/proc/31/stat"/>
+      <video src="/proc/32/stat"/>
+      <video src="/proc/35/stat"/>
+      <video src="/proc/36/stat"/>
+      <video src="/proc/39/stat"/>
+      <video src="/proc/40/stat"/>
+      <video src="/proc/43/stat"/>
+      <video src="/proc/44/stat"/>
+      <video src="/proc/47/stat"/>
+      <video src="/proc/48/stat"/>
+      <video src="/proc/51/stat"/>
+      <video src="/proc/52/stat"/>
+      <video src="/proc/55/stat"/>
+      <video src="/proc/56/stat"/>
+      <video src="/proc/59/stat"/>
+      <video src="/proc/60/stat"/>
+      <video src="/proc/63/stat"/>
+      <video src="/proc/64/stat"/>
+    </switch>
+  </body>
+</smil>
