@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/usr/lib/python3.11/README.txt"/>
+      <video src="/usr/share/doc/mediainfo/copyright"/>
+      <video src="/usr/share/doc/mediainfo/changelog.Debian.gz"/>
+      <video src="/usr/share/doc/mediainfo/changelog.gz"/>
+    </switch>
+  </body>
+</smil>
