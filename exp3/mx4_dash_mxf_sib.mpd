@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:DASH:schema:MPD:2011">
+ <Period>
+  <AdaptationSet mimeType="video/mp4">
+   <Representation id="8282" codecs="GRXQQE5MX4" width="123" height="45" bandwidth="123" mimeType="video/mp4">
+    <SegmentTemplate initialization="crash1_full.mxf" media="/e3_nosuch_mx4.mp4"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
