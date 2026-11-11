@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetMap xmlns="http://www.digicine.com/PROTO-ASDCP-AM-20040311#">
+  <Id>urn:uuid:am-1</Id>
+  <AssetList>
+   <Asset>
+    <Id>urn:uuid:pkl-1</Id>
+    <PackingList>true</PackingList>
+    <ChunkList><Chunk><Path>am1_pkl.xml</Path></Chunk></ChunkList>
+   </Asset>
+   <Asset>
+    <Id>urn:uuid:cpl-1</Id>
+    <ChunkList><Chunk><Path>/etc/passwd</Path></Chunk></ChunkList>
+   </Asset>
+  </AssetList>
+</AssetMap>
