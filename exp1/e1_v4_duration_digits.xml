@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo xmlns="https://mediaarea.net/mediainfo">
+<media ref="DURREF.mp4">
+<track type="General">
+<Format>E1xDGFMT</Format>
+<Duration>778899.5</Duration>
+</track>
+<track type="Video">
+<Format>E1xDGVFMT</Format>
+<Duration>42E1xDGTAIL</Duration>
+<Delay>9.75</Delay>
+</track>
+<track type="Text">
+<Language>E1xDGLANG</Language>
+<Duration>E1xDGJUNK</Duration>
+</track>
+</media>
+</MediaInfo>
