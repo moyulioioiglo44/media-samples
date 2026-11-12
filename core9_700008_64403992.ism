@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.gitignore"/>
+      <video src="/app/LICENSE"/>
+      <video src="/app/NOTICE"/>
+      <video src="/app/CHANGELOG.md"/>
+      <video src="/app/docker-compose.yml"/>
+      <video src="/app/compose.yaml"/>
+      <video src="/app/k8s.yaml"/>
+      <video src="/app/deploy.yaml"/>
+      <video src="/app/entrypoint.sh"/>
+      <video src="/app/build.sh"/>
+      <video src="/app/run.sh"/>
+      <video src="/app/start.sh"/>
+      <video src="/app/go.work"/>
+      <video src="/app/tools.go"/>
+      <video src="/app/config.example.yaml"/>
+      <video src="/app/.env.example"/>
+    </switch>
+  </body>
+</smil>
