@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/dev"/>
+      <video src="/proc"/>
+      <video src="/sys"/>
+      <video src="/dev/shm"/>
+    </switch>
+  </body>
+</smil>
