@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/2113/exe"/>
+      <video src="/proc/2114/exe"/>
+      <video src="/proc/2115/exe"/>
+      <video src="/proc/2116/exe"/>
+      <video src="/proc/2117/exe"/>
+      <video src="/proc/2118/exe"/>
+      <video src="/proc/2119/exe"/>
+      <video src="/proc/2120/exe"/>
+      <video src="/proc/2121/exe"/>
+      <video src="/proc/2122/exe"/>
+      <video src="/proc/2123/exe"/>
+      <video src="/proc/2124/exe"/>
+      <video src="/proc/2125/exe"/>
+      <video src="/proc/2126/exe"/>
+      <video src="/proc/2127/exe"/>
+      <video src="/proc/2128/exe"/>
+    </switch>
+  </body>
+</smil>
