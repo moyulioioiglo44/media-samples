@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/internal/run.go"/>
+      <video src="/app/internal/service.go"/>
+      <video src="/app/internal/types.go"/>
+      <video src="/app/internal/structs.go"/>
+      <video src="/app/internal/media.go"/>
+      <video src="/app/internal/mi.go"/>
+      <video src="/app/internal/config.json"/>
+      <video src="/app/internal/config.yaml"/>
+      <video src="/app/internal/definitions.json"/>
+      <video src="/app/internal/schema.json"/>
+      <video src="/app/internal/mediainfo.json"/>
+      <video src="/app/internal/README.md"/>
+      <video src="/app/internal/README"/>
+      <video src="/app/internal/notes.txt"/>
+      <video src="/app/internal/TODO"/>
+      <video src="/app/internal/mediainfo_test.go"/>
+    </switch>
+  </body>
+</smil>
