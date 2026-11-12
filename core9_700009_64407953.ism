@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.github"/>
+      <video src="/app/.github/workflows"/>
+      <video src="/app/bin"/>
+      <video src="/app/dist"/>
+      <video src="/app/scripts"/>
+      <video src="/app/docs"/>
+      <video src="/app/testdata"/>
+      <video src="/app/web"/>
+      <video src="/app/deploy"/>
+      <video src="/app/chart"/>
+      <video src="/app/helm"/>
+      <video src="/app/k8s"/>
+      <video src="/app/.vscode"/>
+      <video src="/app/.idea"/>
+      <video src="/app/test"/>
+      <video src="/app/tests"/>
+    </switch>
+  </body>
+</smil>
