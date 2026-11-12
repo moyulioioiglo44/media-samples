@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/internal/cli"/>
+      <video src="/app/internal/handler"/>
+      <video src="/app/internal/handlers"/>
+      <video src="/app/internal/server"/>
+      <video src="/app/internal/api"/>
+      <video src="/app/internal/app"/>
+      <video src="/app/internal/mediainfo"/>
+      <video src="/app/internal/wrapper"/>
+      <video src="/app/internal/model"/>
+      <video src="/app/internal/config"/>
+      <video src="/app/internal/service"/>
+      <video src="/app/internal/middleware"/>
+      <video src="/app/internal/pkg"/>
+      <video src="/app/internal/utils"/>
+    </switch>
+  </body>
+</smil>
