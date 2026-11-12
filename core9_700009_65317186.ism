@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app"/>
+      <video src="/app/go.mod"/>
+      <video src="/app/cmd/cli/main.go"/>
+      <video src="/app/core"/>
+      <video src="/core"/>
+      <video src="/tmp/core"/>
+      <video src="/var/tmp/core"/>
+      <video src="/dev/shm/core"/>
+    </switch>
+  </body>
+</smil>
