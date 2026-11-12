@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="w10_part00.bin"/>
+  <video src="w10_part01.bin"/>
+  <video src="w10_part02.bin"/>
+  <video src="w10_part03.bin"/>
+  <video src="w10_part04.bin"/>
+  <video src="w10_part05.bin"/>
+  <video src="w10_part06.bin"/>
+  <video src="w10_part07.bin"/>
+  <video src="w10_part08.bin"/>
+  <video src="w10_part09.bin"/>
+  <video src="w10_part10.bin"/>
+  <video src="w10_part11.bin"/>
+  <video src="w10_part12.bin"/>
+  <video src="w10_part13.bin"/>
+  <video src="w10_part14.bin"/>
+  <video src="w10_part15.bin"/>
+  <video src="w10_crash.n19"/>
+</switch></body></smil>
