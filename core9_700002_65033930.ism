@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.git/packed-refs"/>
+      <video src="/app/.git/ORIG_HEAD"/>
+      <video src="/app/.git/FETCH_HEAD"/>
+    </switch>
+  </body>
+</smil>
