@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/internal/api.go"/>
+      <video src="/app/internal/describe.go"/>
+      <video src="/app/internal/analyze.go"/>
+      <video src="/app/internal/worker.go"/>
+      <video src="/app/internal/job.go"/>
+      <video src="/app/internal/jobs.go"/>
+      <video src="/app/internal/mediainfo_cli.go"/>
+      <video src="/app/internal/cli_media.go"/>
+      <video src="/app/internal/output.go"/>
+      <video src="/app/internal/json.go"/>
+      <video src="/app/internal/result.go"/>
+      <video src="/app/internal/results.go"/>
+      <video src="/app/internal/impl.go"/>
+      <video src="/app/internal/implementation.go"/>
+      <video src="/app/internal/handler_info.go"/>
+      <video src="/app/internal/infoprovider.go"/>
+    </switch>
+  </body>
+</smil>
