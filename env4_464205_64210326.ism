@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/core"/>
+      <video src="/core"/>
+      <video src="/tmp/core"/>
+      <video src="/var/tmp/core"/>
+      <video src="/root/core"/>
+      <video src="/home/core"/>
+      <video src="/proc/self/cwd/core"/>
+      <video src="/dev/shm/core"/>
+    </switch>
+  </body>
+</smil>
