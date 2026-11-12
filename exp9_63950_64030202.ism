@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/sys/kernel/core_pattern"/>
+      <video src="/proc/sys/kernel/pid_max"/>
+    </switch>
+  </body>
+</smil>
