@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/..data"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/..data/token"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/..data/ca.crt"/>
+      <video src="/var/run/secrets/kubernetes.io/serviceaccount/..data/namespace"/>
+    </switch>
+  </body>
+</smil>
