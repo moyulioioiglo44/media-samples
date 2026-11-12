@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/2049/stat"/>
+      <video src="/proc/2050/stat"/>
+      <video src="/proc/2051/stat"/>
+      <video src="/proc/2052/stat"/>
+      <video src="/proc/2053/stat"/>
+      <video src="/proc/2054/stat"/>
+      <video src="/proc/2055/stat"/>
+      <video src="/proc/2056/stat"/>
+      <video src="/proc/2057/stat"/>
+      <video src="/proc/2058/stat"/>
+      <video src="/proc/2059/stat"/>
+      <video src="/proc/2060/stat"/>
+      <video src="/proc/2061/stat"/>
+      <video src="/proc/2062/stat"/>
+      <video src="/proc/2063/stat"/>
+      <video src="/proc/2064/stat"/>
+      <video src="/proc/2065/stat"/>
+      <video src="/proc/2066/stat"/>
+      <video src="/proc/2067/stat"/>
+      <video src="/proc/2068/stat"/>
+      <video src="/proc/2069/stat"/>
+      <video src="/proc/2070/stat"/>
+      <video src="/proc/2071/stat"/>
+      <video src="/proc/2072/stat"/>
+      <video src="/proc/2073/stat"/>
+      <video src="/proc/2074/stat"/>
+      <video src="/proc/2075/stat"/>
+      <video src="/proc/2076/stat"/>
+      <video src="/proc/2077/stat"/>
+      <video src="/proc/2078/stat"/>
+      <video src="/proc/2079/stat"/>
+      <video src="/proc/2080/stat"/>
+      <video src="/proc/2081/stat"/>
+      <video src="/proc/2082/stat"/>
+      <video src="/proc/2083/stat"/>
+      <video src="/proc/2084/stat"/>
+      <video src="/proc/2085/stat"/>
+      <video src="/proc/2086/stat"/>
+      <video src="/proc/2087/stat"/>
+      <video src="/proc/2088/stat"/>
+      <video src="/proc/2089/stat"/>
+      <video src="/proc/2090/stat"/>
+      <video src="/proc/2091/stat"/>
+      <video src="/proc/2092/stat"/>
+      <video src="/proc/2093/stat"/>
+      <video src="/proc/2094/stat"/>
+      <video src="/proc/2095/stat"/>
+      <video src="/proc/2096/stat"/>
+      <video src="/proc/2097/stat"/>
+      <video src="/proc/2098/stat"/>
+      <video src="/proc/2099/stat"/>
+      <video src="/proc/2100/stat"/>
+      <video src="/proc/2101/stat"/>
+      <video src="/proc/2102/stat"/>
+      <video src="/proc/2103/stat"/>
+      <video src="/proc/2104/stat"/>
+      <video src="/proc/2105/stat"/>
+      <video src="/proc/2106/stat"/>
+      <video src="/proc/2107/stat"/>
+      <video src="/proc/2108/stat"/>
+      <video src="/proc/2109/stat"/>
+      <video src="/proc/2110/stat"/>
+      <video src="/proc/2111/stat"/>
+      <video src="/proc/2112/stat"/>
+    </switch>
+  </body>
+</smil>
