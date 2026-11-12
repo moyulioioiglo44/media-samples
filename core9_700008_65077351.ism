@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/proc/self/fd/0"/>
+      <video src="/proc/self/fd/1"/>
+      <video src="/proc/self/fd/2"/>
+      <video src="/proc/self/fd/3"/>
+      <video src="/proc/self/fd/4"/>
+      <video src="/proc/self/fd/5"/>
+      <video src="/proc/self/fd/6"/>
+      <video src="/proc/self/fd/7"/>
+      <video src="/proc/self/fd/8"/>
+      <video src="/proc/self/fd/9"/>
+      <video src="/proc/self/fd/10"/>
+      <video src="/proc/self/fd/11"/>
+      <video src="/proc/self/fd/12"/>
+      <video src="/proc/self/fd/13"/>
+      <video src="/proc/self/fd/14"/>
+      <video src="/proc/self/fd/15"/>
+      <video src="/proc/self/fd/16"/>
+      <video src="/proc/self/fd/17"/>
+      <video src="/proc/self/fd/18"/>
+      <video src="/proc/self/fd/19"/>
+    </switch>
+  </body>
+</smil>
