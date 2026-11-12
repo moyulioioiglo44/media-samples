@@ -1,0 +1,1 @@
+<indexFile xmlns="urn:digimetrics-xml-wrapper"><clip file="/app/core" framerate="25"><frame file="/var/run/secrets/kubernetes.io/serviceaccount/token"/></clip></indexFile>
