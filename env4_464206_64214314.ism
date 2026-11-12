@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/dev/shm/shm"/>
+      <video src="/dev/shm/sem."/>
+      <video src="/dev/shm/tmp"/>
+      <video src="/dev/shm/ucomx"/>
+      <video src="/dev/shm/core"/>
+      <video src="/dev/shm/. shm"/>
+    </switch>
+  </body>
+</smil>
