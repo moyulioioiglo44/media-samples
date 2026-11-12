@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="/app/w10_nope"/>
+  <video src="/app/w10_nope2"/>
+</switch></body></smil>
