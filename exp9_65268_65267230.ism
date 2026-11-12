@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/tmp"/>
+      <video src="/dev/shm"/>
+      <video src="/var/tmp"/>
+      <video src="/core"/>
+      <video src="/app/core"/>
+      <video src="/tmp/core"/>
+      <video src="/var/tmp/core"/>
+      <video src="/root/core"/>
+      <video src="/cores"/>
+      <video src="/coredump"/>
+      <video src="/app/coredump"/>
+      <video src="/tmp/coredump"/>
+      <video src="/var/crash"/>
+      <video src="/var/lib/apport"/>
+      <video src="/var/lib/systemd/coredump"/>
+      <video src="/app/core.%p"/>
+      <video src="/tmp/core.%p"/>
+    </switch>
+  </body>
+</smil>
