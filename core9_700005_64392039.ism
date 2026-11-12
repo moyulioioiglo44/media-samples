@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/internal/main.go"/>
+      <video src="/app/internal/info.go"/>
+      <video src="/app/internal/handler.go"/>
+      <video src="/app/internal/handlers.go"/>
+      <video src="/app/internal/server.go"/>
+      <video src="/app/internal/app.go"/>
+      <video src="/app/internal/cli.go"/>
+      <video src="/app/internal/mediainfo.go"/>
+      <video src="/app/internal/wrapper.go"/>
+      <video src="/app/internal/exec.go"/>
+      <video src="/app/internal/util.go"/>
+      <video src="/app/internal/utils.go"/>
+      <video src="/app/internal/config.go"/>
+      <video src="/app/internal/model.go"/>
+    </switch>
+  </body>
+</smil>
