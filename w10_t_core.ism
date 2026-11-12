@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="/tmp/core"/>
+  <video src="/tmp/core.1"/>
+  <video src="/var/tmp/core"/>
+  <video src="/tmp/cores"/>
+</switch></body></smil>
