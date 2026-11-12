@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/core.mediainfo"/>
+      <video src="/core"/>
+      <video src="/core.mediainfo"/>
+      <video src="/tmp/core"/>
+      <video src="/var/tmp/core"/>
+      <video src="/app/core.%e"/>
+    </switch>
+  </body>
+</smil>
