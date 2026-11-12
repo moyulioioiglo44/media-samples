@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:9.0,
+http://vault.dev.vtg.paramount.tech/v1/sys/health
