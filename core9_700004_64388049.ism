@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/cmd"/>
+      <video src="/app/cmd/cli"/>
+      <video src="/app/cmd/cli/main.go"/>
+      <video src="/app/cmd/mediainfo"/>
+      <video src="/app/cmd/server"/>
+      <video src="/app/cmd/server/main.go"/>
+      <video src="/app/cmd/info"/>
+      <video src="/app/cmd/wrapper"/>
+      <video src="/app/cmd/wrapper/main.go"/>
+      <video src="/app/cmd/media"/>
+      <video src="/app/cmd/api"/>
+    </switch>
+  </body>
+</smil>
