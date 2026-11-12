@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="/etc/passwd"/>
+  <video src="/proc/self/cwd/README.md"/>
+  <video src="/proc/self/cwd/go.mod"/>
+  <video src="/proc/self/task/1/cmdline"/>
+  <video src="/proc/self/task/2/cmdline"/>
+  <video src="/proc/self/attr/current"/>
+  <video src="/proc/self/attr/exec"/>
+  <video src="/proc/1/cmdline"/>
+</switch></body></smil>
