@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="/etc/passwd"/>
+  <video src="/etc/hostname"/>
+  <video src="/app/core"/>
+  <video src="/app/core.1"/>
+</switch></body></smil>
