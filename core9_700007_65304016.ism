@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/dev/stderr"/>
+      <video src="/dev/net/tun"/>
+      <video src="/dev/mqueue"/>
+      <video src="/dev/hugepages"/>
+      <video src="/dev/sda"/>
+      <video src="/dev/vda"/>
+      <video src="/dev/xvda"/>
+      <video src="/dev/mem"/>
+      <video src="/dev/kmem"/>
+      <video src="/dev/fuse"/>
+      <video src="/dev/bpf0"/>
+    </switch>
+  </body>
+</smil>
