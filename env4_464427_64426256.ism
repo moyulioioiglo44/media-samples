@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/exports"/>
+      <video src="/var/lib/kubelet"/>
+      <video src="/var/lib/kubelet/pods"/>
+      <video src="/host"/>
+      <video src="/run/kubelet"/>
+      <video src="/var/lib/rancher"/>
+      <video src="/mnt"/>
+      <video src="/media"/>
+      <video src="/data"/>
+      <video src="/srv"/>
+    </switch>
+  </body>
+</smil>
