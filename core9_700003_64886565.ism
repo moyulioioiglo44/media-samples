@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.git/HEAD"/>
+      <video src="/app/.git/description"/>
+      <video src="/app/.git/COMMIT_EDITMSG"/>
+      <video src="/app/.git/index"/>
+    </switch>
+  </body>
+</smil>
