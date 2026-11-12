@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/internal/internal.go"/>
+      <video src="/app/internal/doc.go"/>
+      <video src="/app/internal/pkg.go"/>
+      <video src="/app/internal/helpers.go"/>
+      <video src="/app/internal/common.go"/>
+      <video src="/app/internal/core.go"/>
+      <video src="/app/internal/base.go"/>
+      <video src="/app/internal/source.go"/>
+      <video src="/app/internal/src.go"/>
+      <video src="/app/internal/files.go"/>
+      <video src="/app/internal/filename.go"/>
+      <video src="/app/internal/path.go"/>
+      <video src="/app/internal/paths.go"/>
+      <video src="/app/internal/fs.go"/>
+      <video src="/app/internal/oracle.go"/>
+      <video src="/app/internal/inspect.go"/>
+    </switch>
+  </body>
+</smil>
