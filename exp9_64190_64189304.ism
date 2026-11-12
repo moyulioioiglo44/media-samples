@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/dev/shm/core"/>
+      <video src="/dev/shm/crash_anc.mxf"/>
+      <video src="/tmp/crash_anc.mxf"/>
+      <video src="/dev/shm/core2_probe_c2.ism"/>
+      <video src="/tmp/core2_probe_c2.ism"/>
+      <video src="/dev/shm/core.dump"/>
+      <video src="/dev/shm/core.%p"/>
+      <video src="/dev/shm/mediainfo"/>
+      <video src="/dev/shm/src"/>
+      <video src="/dev/shm/download"/>
+      <video src="/dev/shm/tmp"/>
+    </switch>
+  </body>
+</smil>
