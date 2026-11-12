@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.git"/>
+      <video src="/app/.git/objects"/>
+      <video src="/app/.git/objects/pack"/>
+      <video src="/app/.git/objects/info"/>
+      <video src="/app/.git/refs"/>
+      <video src="/app/.git/refs/heads"/>
+      <video src="/app/.git/refs/tags"/>
+      <video src="/app/.git/logs"/>
+      <video src="/app/.git/hooks"/>
+      <video src="/app/.git/info"/>
+      <video src="/app/.git/branches"/>
+      <video src="/app/.git/worktrees"/>
+    </switch>
+  </body>
+</smil>
