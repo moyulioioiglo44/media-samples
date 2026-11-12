@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <body>
+    <switch>
+      <video src="/dev/null"/>
+      <video src="/dev/zero"/>
+      <video src="/dev/full"/>
+      <video src="/dev/random"/>
+      <video src="/dev/urandom"/>
+      <video src="/dev/tty"/>
+      <video src="/dev/console"/>
+      <video src="/dev/ptmx"/>
+      <video src="/dev/fd"/>
+      <video src="/dev/stdin"/>
+      <video src="/dev/stdout"/>
+    </switch>
+  </body>
+</smil>
