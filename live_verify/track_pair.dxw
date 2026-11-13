@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+ <body>
+  <clip file="track_a.mp4" type="video" source="main"/>
+  <clip file="track_b.mp4" type="video"/>
+ </body>
+</indexFile>
