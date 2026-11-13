@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DXW xmlns="urn:schemas:dxw">
+  <frame src="/app/go.mod"/>
+  <frame src="/etc/passwd"/>
+  <frame src="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+  <frame src="/definitely-missing-mediainfo-control"/>
+</DXW>
