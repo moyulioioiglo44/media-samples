@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo xmlns="https://mediaarea.net/mediainfo">
+ <media ref="GRXQQE7AREF">
+  <track type="General">
+   <Encoded_Application>GRXQQE7AAPP</Encoded_Application>
+  </track>
+  <track type="Text">
+   <Language>GRXQQE7ALANG</Language>
+   <CodecID>GRXQQE7ACID</CodecID>
+  </track>
+ </media>
+</MediaInfo>
