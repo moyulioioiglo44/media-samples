@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+ <body><switch>
+  <video src="mp4_max16k.mp4"/>
+  <video src="mkv_app_1m.mkv"/>
+ </switch></body>
+</smil>
