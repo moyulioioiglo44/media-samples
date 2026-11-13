@@ -1,0 +1,30 @@
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/2067-3/2016">
+  <Id>urn:uuid:8f0a1a5a-6ac9-4d0d-97cf-3b1d921d1234</Id>
+  <SegmentList>
+    <Segment>
+      <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000001</Id>
+      <SequenceList>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000002</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000003</Id>
+              <TrackFileId>mkv_codec_child_106_A.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000102</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000104</Id>
+              <TrackFileId>mkv_codec_child_106_B.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+      </SequenceList>
+    </Segment>
+  </SegmentList>
+</CompositionPlaylist>
