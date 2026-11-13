@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+ <clip source="main" file="f1_orig_prefix.mkv" framerate="25" type="video">
+  <frame file="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+  <frame file="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+  <frame file="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+ </clip>
+</indexFile>
