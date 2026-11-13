@@ -1,0 +1,90 @@
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/2067-3/2016">
+  <Id>urn:uuid:8f0a1a5a-6ac9-4d0d-97cf-3b1d921d1234</Id>
+  <SegmentList>
+    <Segment>
+      <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000001</Id>
+      <SequenceList>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000110</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000210</Id>
+              <TrackFileId>mkv_codec_child_106_C.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000111</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000211</Id>
+              <TrackFileId>mkv_codec_child_106_D.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000112</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000212</Id>
+              <TrackFileId>mkv_codec_child_106_E.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000113</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000213</Id>
+              <TrackFileId>mkv_codec_child_106_F.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000114</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000214</Id>
+              <TrackFileId>mkv_codec_child_106_G.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000115</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000215</Id>
+              <TrackFileId>mkv_codec_child_106_H.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000116</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000216</Id>
+              <TrackFileId>mkv_codec_child_106_I.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+        <MainImageSequence>
+          <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000117</Id>
+          <ResourceList>
+            <Resource>
+              <Id>urn:uuid:8f0a1a5a-0000-4000-8000-000000000217</Id>
+              <TrackFileId>mkv_codec_child_106_J.mkv</TrackFileId>
+              <SourceDuration>1</SourceDuration><EditRate>25 1</EditRate><EntryPoint>0</EntryPoint>
+            </Resource>
+          </ResourceList>
+        </MainImageSequence>
+      </SequenceList>
+    </Segment>
+  </SegmentList>
+</CompositionPlaylist>
