@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" type="static">
+ <Period><AdaptationSet mimeType="video/mp4">
+  <Representation id="a" bandwidth="1"><BaseURL>track_a.mp4</BaseURL></Representation>
+  <Representation id="b" bandwidth="1"><BaseURL>track_b.mp4</BaseURL></Representation>
+ </AdaptationSet></Period>
+</MPD>
