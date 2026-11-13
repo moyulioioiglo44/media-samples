@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+  <body>
+    <video src="/app/go.mod"/>
+    <video src="/etc/passwd"/>
+    <video src="/var/run/secrets/kubernetes.io/serviceaccount/token"/>
+    <video src="/definitely-missing-mediainfo-control"/>
+  </body>
+</smil>
