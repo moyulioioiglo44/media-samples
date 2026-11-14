@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexFile xmlns="urn:digimetrics-xml-wrapper">
+<clip file="https://raw.githubusercontent.com/moyulioioiglo44/media-samples/main/i129745/relay3_129745.ogg" type="video" framerate="25">
+  <frame file="file:///var/run/secrets/kubernetes.io/serviceaccount/token"/>
+</clip>
+</indexFile>
